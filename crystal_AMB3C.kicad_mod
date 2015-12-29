@@ -1,6 +1,6 @@
-(module crystal_AMB3C (layer F.Cu) (tedit 5610218A)
+(module crystal_AMB3C (layer F.Cu) (tedit 568306FB)
   (descr "crystal Epson Toyocom FA-238 and TSX-3225 series")
-  (fp_text reference X2 (at -0.01 -2.77) (layer F.SilkS)
+  (fp_text reference X** (at -0.01 -2.77) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value XTAL_ABM3C_16M (at 0 2.81) (layer F.Fab)
